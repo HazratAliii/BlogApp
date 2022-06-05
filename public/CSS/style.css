@@ -1,0 +1,21 @@
+.postbox {
+    width: 40%;
+    min-height: 100px;
+    border: 3px double;
+}
+
+.create_post {
+    width: 40%;
+    margin:  0 auto;
+    display: inline-block;
+}
+
+.post-btn {
+    position: inline;
+    margin-bottom: 33px;
+}
+
+.status {
+    width: 35%;
+    min-height: 100px;
+}
